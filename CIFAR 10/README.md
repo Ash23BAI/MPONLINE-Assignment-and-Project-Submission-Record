@@ -1,14 +1,14 @@
 # 🖼️ CIFAR-10 Image Classification using CNN
 
-**Name:** Akshat Garg  
+**Name:** Ashtitva Pandey 
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BAI10568
 
-**Application Number:** IN26011052
+**Application Number:** IN26009603
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in
+**Email ID:** ashtitva.23bai10568@vitbhopal.ac.in
 
 A deep learning project that classifies **32×32 RGB images** into **10 categories** using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **85%+ accuracy**.
 
@@ -181,7 +181,7 @@ jupyter notebook "CIFAR-10 AKSHAT GARG 23BCE10641.ipynb"
 
 ```
 CIFAR 10/
-├── CIFAR-10 AKSHAT GARG 23BCE10641.ipynb   # Main notebook (full pipeline)
+├── CIFAR-10 Ashtitva Pandey 23BAI10568.ipynb   # Main notebook (full pipeline)
 └── README.md                                # Project documentation
 ```
 
