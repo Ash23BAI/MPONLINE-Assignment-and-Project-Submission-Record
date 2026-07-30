@@ -1,14 +1,14 @@
 # 🧠 Brain Tumor Classification using CNN — MRI Images
 
-**Name:** Akshat Garg  
+**Name:** Ashtitva Pandey  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BAI10568
 
-**Application Number:** IN26011052
+**Application Number:** IN26009603
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** ashtitva.23bai10568@vitbhopal.ac.in 
 
 A deep learning project that classifies brain MRI scans into **4 categories** — Glioma, Meningioma, No Tumor, and Pituitary — using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **90%+ accuracy**.
 
@@ -186,7 +186,7 @@ jupyter notebook "Cancer Classification AKSHAT GARG 23BCE10641.ipynb"
 
 ```
 Cancer Classification/
-├── Cancer Classification AKSHAT GARG 23BCE10641.ipynb   # Main notebook
+├── Cancer Classification ASHTITVA PANDEY 23BAI10568.ipynb   # Main notebook
 ├── README.md                                             # Project documentation
 └── brain-tumor-mri-dataset/                              # MRI image dataset
     ├── Training/                                         # ~5,600 training images
