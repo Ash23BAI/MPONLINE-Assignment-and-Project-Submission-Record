@@ -1,14 +1,14 @@
 # 👤 Face Recognition using CNN — Labeled Faces in the Wild (LFW)
 
-**Name:** Akshat Garg  
+**Name:** Ashtitva Pandey  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BAI10568
 
-**Application Number:** IN26011052
+**Application Number:** IN26009603
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** ashtitva.23bai10568@vitbhopal.ac.in 
 
 A deep learning project that recognizes **faces of 7 public figures** from the **LFW (Labeled Faces in the Wild)** dataset using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **90%+ accuracy**.
 
@@ -187,7 +187,7 @@ jupyter notebook "LFW AKSHAT GARG 23BCE10641.ipynb"
 
 ```
 LFW face recognition/
-├── LFW AKSHAT GARG 23BCE10641.ipynb   # Main notebook (full pipeline)
+├── LFW ASHTITVA PANDEY 23BAI10568.ipynb   # Main notebook (full pipeline)
 └── README.md                          # Project documentation
 ```
 
