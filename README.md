@@ -1,14 +1,14 @@
 # 📂 AI & Machine Learning Projects Portfolio
 
-**Name:** Akshat Garg  
+**Name:** Ashtitva Pandey  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BAI10568
 
-**Application Number:** IN26011052
+**Application Number:** IN26009603
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** ashtitva.23bai10568@vitbhopal.ac.in 
 
 ---
 
