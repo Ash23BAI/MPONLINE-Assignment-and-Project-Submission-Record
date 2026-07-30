@@ -1,14 +1,14 @@
 # 🚗 Car Price Prediction System
 
-**Name:** Akshat Garg  
+**Name:** Ashtitva Pandey  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BCE10568
 
-**Application Number:** IN26011052
+**Application Number:** IN26009603
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** ashtitva.23bai10568@vitbhopal.ac.in 
 
 A machine learning project that predicts the **selling price of used cars** using a **Random Forest Regressor**, saved with Pickle and deployed as a **Flask web application**.
 
