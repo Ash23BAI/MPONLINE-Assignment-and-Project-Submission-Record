@@ -1,14 +1,14 @@
 # 🎬 Movie Recommendation System
 
-**Name:** Akshat Garg  
+**Name:** Ashtitva Pandey  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BAI10568
 
-**Application Number:** IN26011052
+**Application Number:** IN26009603
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** ashtitva.23bai10568@vitbhopal.ac.in 
 
 A web-based Movie Recommendation System built using **Python**, **Flask**, **Pandas**, and **Scikit-learn**. The application recommends similar movies based on genre similarity using **TF-IDF Vectorization** and **Cosine Similarity**.
 
@@ -68,7 +68,7 @@ Movie-Recommendation-System/
 Clone the repository:
 
 ```bash
-git clone https://github.com/AkshatGarg2005/Movie-Recommendation-System
+git clone https://github.com/Ash23BAI/Movie-Recommendation-System
 ```
 
 Navigate to the project folder:
