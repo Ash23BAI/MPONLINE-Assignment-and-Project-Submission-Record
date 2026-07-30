@@ -8,7 +8,7 @@
 
 **Batch Number:** 1A
 
-**Email ID:** ashtitva.23bce10568@vitbhopal.ac.in
+**Email ID:** ashtitva.23bai10568@vitbhopal.ac.in
 
 This project implements the Proximal Policy Optimization (PPO) algorithm to solve the Gymnasium CartPole-v1 environment using Stable-Baselines3.
 
